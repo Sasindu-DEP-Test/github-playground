@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/../Intellij-Test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../git-demos/hello-git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../git-demos/hello-git-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../hello-git-2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../java-fx/0-task" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../java-se/io/ems" vcs="Git" />
